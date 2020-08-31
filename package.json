@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-study",
+  "version": "1.0.0",
+  "description": "```dos\r mongod --dbpath D:\\node\\mydb\r ```",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuGuiLin/MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuGuiLin/MongoDB/issues"
+  },
+  "homepage": "https://github.com/MuGuiLin/MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
